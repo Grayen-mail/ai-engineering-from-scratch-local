@@ -1,0 +1,7 @@
+[package]
+name = "verify"
+version = "0.1.0"
+
+[[bin]]
+name = "verify"
+path = "main.rs"
